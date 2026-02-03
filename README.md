@@ -26,3 +26,4 @@ It allows users to view flights, make reservations, and manage passengers.
 ```bash
 git clone https://github.com/caiozxtt/airline-management-java.git
 cd airline-management-java
+javac Main.java
